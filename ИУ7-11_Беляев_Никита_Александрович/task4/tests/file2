@@ -1,0 +1,7 @@
+
+
+This is the 2nd part of the test. It's really doesn't matter, what I 00.1   will write
+there. What's really matter, is the floating point sequence. All previous  1.0e-10  test
+files were different in addition to the needed sequences. So return code was a 22.22e10 lw 65 ays 1.
+But now I'll put the same sequence     12.3 100e10 in this 1.1e10 file to show that my script can also return 0.
+56.4e1
